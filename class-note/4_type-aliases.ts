@@ -1,7 +1,7 @@
-interface Persons {
-  name: string;
-  age: number;
-}
+// interface Persons {
+//   name: string;
+//   age: number;
+// }
 
 // type Persons = {
 //   name: string;
